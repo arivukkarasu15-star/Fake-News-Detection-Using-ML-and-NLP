@@ -13,3 +13,7 @@ python-dotenv
 deep-translator
 joblib
 google-genai
+groq
+gunicorn
+feedparser
+openai
