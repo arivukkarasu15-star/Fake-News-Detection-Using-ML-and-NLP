@@ -8,6 +8,14 @@ app_port: 7860
 pinned: false
 ---
 
+## 🚀 Live Demo
+👉 **[Try it live here](https://huggingface.co/spaces/Arivu104/fake-news-detection)**
+
+## 🎥 Demo
+![Fake News Detector](https://img.shields.io/badge/Status-Live-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Flask](https://img.shields.io/badge/Flask-Latest-lightgrey)
+
 # Fake News Detection using Machine Learning and NLP
 
 ## Final Year Project - Implementation Guide

@@ -11,5 +11,7 @@ RUN pip install --no-cache-dir gunicorn
 
 COPY --chown=user . /app
 
+RUN rm -f model.pkl vectorizer.pkl && python train_and_save_model.py
+
 EXPOSE 7860
 CMD ["gunicorn", "-w", "2", "-b", "0.0.0.0:7860", "app:app"]
