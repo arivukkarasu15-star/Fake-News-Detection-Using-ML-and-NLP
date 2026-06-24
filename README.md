@@ -1,4 +1,4 @@
-## Fake News Detection Using Machine Learning
+# Fake News Detection Using Machine Learning
 
 ## 🚀 Live Demo
 👉 **[Try it live here](https://huggingface.co/spaces/Arivu104/fake-news-detection)**
