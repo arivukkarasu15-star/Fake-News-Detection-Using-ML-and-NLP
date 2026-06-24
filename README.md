@@ -136,7 +136,7 @@ text,label
 ## Project Structure
 
 ```
-FND Gemini/
+Fake News Detection/
 ├── .env                    # Environment variables (API keys)
 ├── README.md               # Project guide
 ├── app.py                  # Main Flask application
@@ -336,21 +336,8 @@ This project is for educational purposes (Final Year Project).
 
 ---
 
-## Contact & Support
-
-For questions or issues with this implementation, refer to:
-- scikit-learn documentation: https://scikit-learn.org/
-- NLTK documentation: https://www.nltk.org/
-- Pandas documentation: https://pandas.pydata.org/
-
----
-
 ## Acknowledgments
 
 - Dataset providers (Kaggle, ISOT, etc.)
 - scikit-learn library
 - NLTK library
-
----
-
-**Good luck with your final year project! 🎓**
