@@ -1,12 +1,4 @@
----
-title: Fake News Detection Using Machine Learning
-emoji: 📰
-colorFrom: red
-colorTo: blue
-sdk: docker
-app_port: 7860
-pinned: false
----
+## Fake News Detection Using Machine Learning
 
 ## 🚀 Live Demo
 👉 **[Try it live here](https://huggingface.co/spaces/Arivu104/fake-news-detection)**
